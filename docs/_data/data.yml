@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -24,11 +24,11 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: Turkish
-        level: Native
+      - idiom: Türkçe
+        level: Ana Dil
 
-      - idiom: English
-        level: Professional
+      - idiom: İngilizce
+        level: Orta
 
     interests:
       - item: Climbing
@@ -102,7 +102,7 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
+    title: Son Kişisel Projeler
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -130,7 +130,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Uzmanlıklar
 
     toolset:
       - name: React-Native
