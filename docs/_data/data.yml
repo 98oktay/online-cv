@@ -31,13 +31,16 @@ sidebar:
         level: Orta
 
     interests:
-      - item: Climbing
+      - item: Elektronik
         link:
 
-      - item: Snowboarding
+      - item: Linux
         link:
 
-      - item: Cooking
+      - item: Mobil Uygulama
+        link:
+
+      - item: Müzik
         link:
 
 career-profile:
@@ -134,13 +137,22 @@ skills:
 
     toolset:
       - name: React-Native
+        level: 80%
+
+      - name: PHP & Mysql
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
+      - name: NodeJS
+        level: 80%
+
       - name: HTML5 & SCSS
         level: 95%
+
+      - name: Embedded Systems
+        level: 50%
 
       - name: Sketch & Photoshop
         level: 60%
